@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5002d7e1-2b4e-465d-a674-a1256941d68b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Seguimiento1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cWashMC/WashMC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dEvenOddCheck/EvenOdd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eGradeCalculator/GradeCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fMaxOfThree/MaxOfThree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gMayorAid/MayorAid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hGymCost/Gym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iTriangleValidation/Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jCopyCost/CopyCost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kComputersDiagnostic/PC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bNumber/PositiveOrNot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bNumber/PositiveOrNot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +43,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Payment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -57,11 +71,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753277002037</updated>
-      <workItem from="1753277002934" duration="418000" />
+      <workItem from="1753277002934" duration="1770000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Seguimiento1$Payment.coverage" NAME="Payment Coverage Results" MODIFIED="1753277453280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/aPayment" />
   </component>
 </project>
