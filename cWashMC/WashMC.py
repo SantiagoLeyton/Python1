@@ -9,8 +9,12 @@ kind = int(input("Enter the number: "))
 # Price per hour
 if kind == 1:
     price_per_hour = 4000
-else:
+elif kind == 2:
     price_per_hour = 3000
+else:
+    print("Invalid input")
+    exit()
+# If the user join an invalid number or other thing, we finish the code
 
 # Total hours
 hours = int(input("How many hours do you want to rent? "))
